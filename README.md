@@ -4,10 +4,11 @@ Este repositório contém algoritmos e testes unitários em Python para simular 
 
 ## Conteúdo
 
-- [Projétil](#projétil)
-- [Colisão de Partículas](#colisão-de-partículas)
-- [Pêndulo Simples](#pêndulo-simples)
-- [Movimento Circular Uniforme](#movimento-circular-uniforme)
+- [Queda Livre](#exercicio_01.py): Simulação da queda livre de um objeto, calculando sua posição e velocidade em intervalos de tempo específicos.
+- [Projétil](#exercicio_02.py)
+- [Colisão de Partículas](#exercicio_03.py)
+- [Pêndulo Simples](#exercicio_04.py)
+- [Movimento Circular Uniforme](#exercicio_05.py)
 
 ## Projétil
 
