@@ -4,11 +4,15 @@ Este repositório contém algoritmos e testes unitários em Python para simular 
 
 ## Conteúdo
 
-- [Queda Livre](#exercicio_01.py): Simulação da queda livre de um objeto, calculando sua posição e velocidade em intervalos de tempo específicos.
+- [Queda Livre](#exercicio_01.py)
 - [Projétil](#exercicio_02.py)
 - [Colisão de Partículas](#exercicio_03.py)
 - [Pêndulo Simples](#exercicio_04.py)
 - [Movimento Circular Uniforme](#exercicio_05.py)
+
+## Queda Livre
+
+Simulação da queda livre de um objeto, calculando sua posição e velocidade em intervalos de tempo específicos.
 
 ## Projétil
 
